@@ -1,0 +1,114 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+.logoimg {
+	height: 8rem;
+	width: 8rem;
+	margin-left: 3rem;
+	object-fit: cover;
+}
+.custom-navbar {
+	background-color: #fbb1bd !important;
+	/* background-color: #ff87ab !important; */
+	padding: 1rem;
+}
+
+.custom-navbar .nav-link {
+	color: #8f2d56;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bolder;
+	font-size: 1.5rem;
+}
+.account-click-btn {
+	height: 5rem;
+	width: 10rem;
+	background-color: #8f2d56;
+	border: 2px solid #8f2d56;
+	border-radius: 5%;
+	color: white;
+	/* font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+		Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; */
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 2rem;
+	margin-right: 8rem;
+}
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.yoga-img {
+	height: 32rem;
+	width: 30rem;
+	margin-right: 5rem;
+	margin-left: 3rem;
+}
+
+.text-content {
+	height: 36rem;
+	width: 40rem;
+	background-color: #f7cad0;
+	padding: 2rem;
+	margin-left: 5rem;
+	margin-right: 4rem;
+}
+.footer {
+	background-color: #fbb1bd;
+	color: #8f2d56;
+	padding: 2rem 1rem;
+	text-align: center;
+}
+.footer-content {
+	font-size: 1.25rem;
+	margin-bottom: 1rem;
+}
+.connect {
+	margin-top: 1rem;
+}
+.para-connect {
+	font-size: 1.5rem;
+	margin-bottom: 0.5rem;
+	font-weight: bold;
+	color: #8f2d56;
+}
+.connect-links {
+	color: darkmagenta;
+	font-size: 1.25rem;
+	text-decoration: none;
+	font-family: "Times New Roman", Times, serif;
+}
+.connect-links:hover {
+	color: darkmagenta;
+}
+.connect-links + .connect-links {
+	margin-left: 1rem;
+}
+.container {
+	display: flex;
+	align-items: flex-start;
+	gap: 5rem;
+}
+.async {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: xx-large;
+	color: #8f2d56;
+}
+.async:hover {
+	color: darkmagenta;
+}
+.main-text-head {
+	text-align: center;
+	font-weight: bold;
+	/* font-family: Georgia, "Times New Roman", Times, serif; */
+	font-family: "Times New Roman", Times, serif;
+	color: #8f2d56;
+}
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.15rem;
+	color: #8f2d56;
+	font-weight: bold;
+}
